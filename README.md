@@ -1,1 +1,1 @@
-Good morning, this is a test.
+This is a test repo.
